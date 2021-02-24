@@ -2,8 +2,8 @@
 //To run = node the file name.js
 'use strict';
 
-console.log('cum in my bum');
-// calling console.log with the parameters of cum in my bum
+console.log('duck');
+// calling console.log with the parameters of duck
 // a parameter defines a system/sets conditions of the command
 
 console.log(6>7);
