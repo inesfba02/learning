@@ -9,7 +9,9 @@ for (let i = 0; i <=1000; i++)
         console.log(i); //does not need to be logged, this will list all the numbers i have asked for, but the problem only asks for the sum of these numbers that the log of i will list.
     }
 }
-    console.log(result);
+
+console.log(result);
+
 /**
  * % = modulo (remainder)
  * for loop just counts from 0 to 1000 but I only need multiples of 3 and 5
