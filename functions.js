@@ -41,6 +41,6 @@ function multiply(d, e)
     }
     return (res);
 }
-let res = multiply(6, 9);
+let res = multiply(8, 9);
 console.log(res);
 // can start from f = 0 (use this) but, would need to be < not <=

@@ -1,4 +1,4 @@
-let array = [6, 9, 4, 2, 0];
+let array = [6, 4, 9, 0, 2];
 console.log(array);
 console.log(array[0]);
 // ^ will print 6, only 6
@@ -40,8 +40,8 @@ for (let k = 1; k <= 10; k++)
     Same thing as above
 */
 
-let a = 120;
-let b = 69;
+let a = 150;
+let b = 60;
 
 let result = 0;
 
@@ -51,15 +51,13 @@ for (let x = 0; x < b; x++)
 }
 console.log(result);
 
-console.log(120*69);
+console.log(150*60);
 // * = times but ben is silly and wanted me to times through addition
 
 /** 
  * < not <= as i am starting from 0 
     * result is 0, x is 0
-    * x until it is no longer smaller than b (69)
+    * x until it is no longer smaller than b (60)
     * ++ adds 1 to x
-    * the + = a (120) so it adds it 120 times
+    * the + = a (150) so it adds it 150 times
 */ 
-
-
